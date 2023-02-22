@@ -1,4 +1,5 @@
 SQL Assignment to retrieve schema and execute selections.
+
 Task 1:
 Using the Query 2 you created change the points to reads times by 10 and plus 100. Record your results in your word document
 Change the Query 2 code to create a discount factor so the table now shows a discount header and changing the (point + 10) *100
